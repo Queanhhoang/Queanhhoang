@@ -1,2 +1,2 @@
 - 👋 Hi, I’m Hoang Que Anh.
-- 🌱 I’m currently learning to be a Front-end developer. Fighting!
+- 🌱 I’m currently learning to become a Front-end developer. Fighting!
